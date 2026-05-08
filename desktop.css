@@ -1,0 +1,253 @@
+h1 {
+    max-width: 80rem;
+    font-size: 13rem;
+    font-weight: 400;
+}
+.header-cuatro {
+    display: none;
+}
+.font {
+    max-width: 70rem;
+    font-size: 3rem;
+    color: rgb(236, 229, 229);
+    margin: 2rem ;
+}
+.font-uno {
+    color: black;
+    font-size: 6rem;
+    max-width: 60rem;
+    font-weight: 300;
+}
+.boton-temporal {
+    display: none;
+}
+.header-uno {
+    justify-content: space-around;
+}
+.grupo-1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    max-width: 150rem;
+    margin: 2rem  auto; 
+}
+.botones  {
+    width: 70%;
+}
+.button-tres {
+    width: 20rem;
+}
+.titulos {
+    font-size: 3rem;
+    color: white;
+    font-weight: 200;
+}
+.parrafo {
+    font-size: 2rem;
+    color: white;
+
+}
+.buttons {
+    padding: 1rem;
+    width: auto;
+    height: 5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: azure;
+    font-size: black;
+    margin: 3rem 2rem;
+}
+a {
+    font-size: 1.5rem ;
+    color: black;
+    text-decoration: none;
+}
+.imagenes-temporales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottonTemporal {
+    display: block;
+    margin-right: 1rem;
+}
+
+.divTemporal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.menu {
+    display: none;
+}
+
+.Botones {
+    border: none;
+    background-color: transparent;
+    color: white;
+    margin: 1rem;
+}
+.conteiner-uno {
+    width: 60%;
+    height: 50rem;  
+}
+.conteiner-dos {
+    width: 30%;
+    height: 50rem;    
+}
+.main-uno {
+    height: auto;
+}
+.main-seis {
+    font-size: 7rem;
+    font-weight: 300;
+}
+.grupo-3 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    max-width: 150rem;
+    margin: 2rem  auto; 
+}
+.conteiner-tres {
+    width: 40%;
+    height: 60rem;
+    margin: 2rem;
+    float: left;    
+}
+.main-nueve {
+    clear: both;
+    font-size: 7rem;
+    font-weight: 300;
+}
+.main-diez {
+    height: 50rem;
+}
+.main-once {
+    font-size: 7rem;
+    font-weight: 300;
+}
+.main-dieciseis {
+    font-size: 10rem;
+    font-weight: 300;
+}
+ul {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    line-height: 3rem;
+    font-weight: 300;
+}
+.menu-temporal {
+    display: none;
+}
+.f1 {
+    width: 33%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 2rem;
+    font-weight: 200;
+}
+.footer-uno {
+    width: 30%;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 5rem;
+}
+.footer-dos {
+    font-size: 2rem;
+    width: 70%;
+    height: auto;
+    margin: 1.5rem auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.prueba-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+}
+.botones-descarga {
+    width: 21rem;
+    height: 7rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.descargar {
+    width: 10rem;
+    height: 5rem;
+    background-color: white;
+    color: black;
+    border: 0.1rem solid gray;
+    font-size: 1.5rem;
+}
+.texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.texto2 {
+    display: none;
+}
+.footer-tres {
+    width: auto;
+    margin: 1.5rem;
+
+}
+.footer-cuatro {
+    width: auto;
+    margin: 1.5rem;
+}
+.footer-cinco {
+    width: auto;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-footer {
+    color: rgb(109, 101, 101);
+    font-size: 1.5rem;
+}
+.img {
+    display: none;
+}
+.interruptor {
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+    display: block;
+}
+.uno {
+    width: auto;
+    height: 100%;
+}
+.dos {
+    width: auto;
+    height: 100%;
+}
+.tres {
+    width: auto;
+    height: 100%;
+}
